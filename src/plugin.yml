@@ -1,0 +1,3 @@
+name: SU_Control
+main: su_ctrl.main.plugin.Main
+version: 0.5
